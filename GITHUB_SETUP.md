@@ -1,22 +1,29 @@
-# Setting up a github repositroy 
+# Setting up a github repository 
 
 ## Initial setup
 
-- Anyone can create an account on [Github](https://www.github.com)
+- Create an account on [Github](https://www.github.com)
 - Click on the sign up button to sign up with details requested
 - Create a new github repository with name `HORISEON-REFACTOR` [here](https://github.com/new)
-- You can add a description if you want.
+- You can add a description if you want (optional).
 - You can chose a private or public repository, I plan on using public
 - Usally I check the box for "Add a README file" 
 - Then click 'Create repository'
 
-## Clone a repository 
+A good tutorial get started with git can be found on [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
-- If you plan on cloning this repository you can perform the steps to same location you created earlier 
-- Make sure you have right access to pull in the reposotiory either by applying 'ssh' keys or by providing a username and password'
-- Copy the git commands from the source folder of the git repository are you cloning from 
+
+## Contributing to this repository
+
+- After cloning the repository, create a new branch 
+   ```md
+    git checkout -b <branch-name> 
    ```
-    git clone git@github.com:kumarakom/horiseon-refactor.git
+- Make required changes to you the file and run following commands to apply
    ```
-
-
+     git add -A (add file)
+     git commit -m "Comment on changes"
+     git push origin <brach-name> 
+  ``` 
+- The above command will give you a URL 
+- Open a browser to point to the URL and request a pull request. 

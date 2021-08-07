@@ -3,14 +3,14 @@
 ## Initial build of Horiseon website 
 
 Build my first website with proper HTML and CSS syntax 
-- This helps me understand basic use of HTML elements 
+- Understood basic use of HTML elements 
 - Consolidation css templates 
 - Build website to to meet accessability criteria 
 - Understand semantic HTML elements 
 - Create human reable flow such as sequential flow
 
 
-## Table of Contents (Optional)
+## Table of Contents
 Below are steps I had to follow to setup this project
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,30 +19,27 @@ Below are steps I had to follow to setup this project
 
 ## Installation
 The initial source was a file repostiory containg the a folder with html page, css and images folders. 
-## Usage
-- Set up a github repository [setps](GITHUB_SETUP.md) 
-- Initial steps incldude clone the repo from Trilogy Education services, using commands below
-  ``` 
-   git clone <repo name>
-   ls (list files and folders)
-  ```
-- Looked at the indx.html code to fix TAGs following proper HTML semantic 
-- Validated the pages to look for any broken links, corrected them as needed. 
-- Checked the css page 
--- set the relative path based on my folder structure such as 
---- create ```assets/images``` folder for screen shots 
---- Using the relative path within the code was able to set sceenshots as
+- Created a new git repository [steps](GITHUB_SETUP.md)
+- To clone this repository  
+-- Make sure you have right access to pull in the reposotiory either by applying 'ssh' keys or by providing a username and password'
+-- Copy the git commands from the source folder of the git repository are you cloning from 
+   ```
+    git clone git@github.com:kumarakom/horiseon-refactor.git
+   ```
 
-```md
-   [alt text] (assets/images/cost-management.png) 
-```
+## Usage
+
+To contribute to this page, please follow steps on [contributing](CONTRIBUTING.md)
 
 ## Credits
 
-TBD 
-
+- [Understanding markdown](https://guides.github.com/features/mastering-markdown/)
+- [Understand HTML SEMANTICS](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [CSS basic - w3schools.com](https://www.w3schools.com/html/html_css.asp)
+- [CSS selectors](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
 ## License
-The following website has been created  
+
+This page is provided as is and originally belongs to 
 ```
 © 2021 Trilogy Education Services, 
 LLC, a 2U, Inc. brand. 
