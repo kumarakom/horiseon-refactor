@@ -12,18 +12,3 @@
 
 A good tutorial get started with git can be found on [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
-
-## Contributing to this repository
-
-- After cloning the repository, create a new branch 
-   ```md
-    git checkout -b <branch-name> 
-   ```
-- Make required changes to you the file and run following commands to apply
-   ```
-     git add -A (add file)
-     git commit -m "Comment on changes"
-     git push origin <brach-name> 
-  ``` 
-- The above command will give you a URL 
-- Open a browser to point to the URL and request a pull request. 
