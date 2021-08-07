@@ -19,10 +19,10 @@ Below are steps I had to follow to setup this project
 
 ## Installation
 The initial source was a file repostiory containg the a folder with html page, css and images folders. 
-- Created a new git repository [steps](GITHUB_SETUP.md)
-- To clone this repository  
--- Make sure you have right access to pull in the reposotiory either by applying 'ssh' keys or by providing a username and password'
--- Copy the git commands from the source folder of the git repository are you cloning from 
+* Created a new git repository [steps](GITHUB_SETUP.md)
+* To clone this repository  
+ *  Make sure you have right access to pull in the reposotiory either by applying 'ssh' keys or by providing a username and password'
+ * Copy the git commands from the source folder of the git repository are you cloning from 
    ```
     git clone git@github.com:kumarakom/horiseon-refactor.git
    ```
