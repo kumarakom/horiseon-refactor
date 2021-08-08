@@ -28,6 +28,7 @@ The initial source was a file repostiory containg the a folder with html page, c
     git clone git@github.com:kumarakom/horiseon-refactor.git
    ```
   * You will see a `horiseon-refactor` folder 
+* An alternate resource can also be found at [github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
 ## Usage
 

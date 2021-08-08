@@ -10,5 +10,5 @@
 - Usally I check the box for "Add a README file" 
 - Then click 'Create repository'
 
-A good tutorial get started with git can be found on [atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+A good tutorial get started with git can be found on [github](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
