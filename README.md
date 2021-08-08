@@ -37,6 +37,7 @@ To contribute to this page, please follow steps on [contributing](CONTRIBUTING.m
 
 - [Understanding markdown](https://guides.github.com/features/mastering-markdown/)
 - [Understand HTML SEMANTICS](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Semantic Elements in HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [CSS basic - w3schools.com](https://www.w3schools.com/html/html_css.asp)
 - [CSS selectors](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
 ## License
